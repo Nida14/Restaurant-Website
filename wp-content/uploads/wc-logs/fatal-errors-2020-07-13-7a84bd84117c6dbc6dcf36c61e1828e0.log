@@ -1,0 +1,8 @@
+2020-07-13T09:21:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\restaurant\wp-content\themes\restaurant-recipe\acmethemes\sidebar-widget\acme-gallery.php on line 9
+
+2020-07-13T09:21:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\restaurant\wp-content\plugins\elementor\core\dynamic-tags\manager.php on line 10
+
+2020-07-13T09:21:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\restaurant\wp-includes\wp-db.php on line 2007
+
+2020-07-13T09:21:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\restaurant\wp-includes\wp-db.php on line 2007
+
